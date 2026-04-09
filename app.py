@@ -77,5 +77,3 @@ if st.button("Predict"):
         st.error(f"Customer will churn ❌ ({churn_prob:.2f}%)")
     else:
         st.success(f"Customer will stay ✅ ({100 - churn_prob:.2f}%)")
-
-
