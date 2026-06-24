@@ -9,4 +9,4 @@ This project predicts customer churn using machine learning models like Logistic
 - Streamlit web app
 
 ## How to Run
--> "streamlit run app.py" (run this in terminal)
+-> "streamlit run app.py" (run this in terminal )
